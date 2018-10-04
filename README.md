@@ -1,4 +1,4 @@
-# hello-world to the GiHub community
+# hello-world
 
 
 * This is a sentence.
